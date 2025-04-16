@@ -43,3 +43,14 @@ This is a simple static website hosted using **GitHub Pages**. It demonstrates t
 
 In this project, we added a simple `styles.css` file to customize the background color, text alignment, and font of the website. You can modify the CSS to further personalize the design.
 
+## Result : 
+
+
+![Hosting website](https://github.com/user-attachments/assets/630e04b6-db7c-456b-8c75-2c752a80d082)
+
+
+
+
+![Applying Styles](https://github.com/user-attachments/assets/bf282661-673e-4ccd-8ef0-e725457bcd91)
+
+
